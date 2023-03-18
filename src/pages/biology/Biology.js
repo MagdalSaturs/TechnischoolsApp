@@ -14,7 +14,7 @@ const Biology = () => {
       <h1>Biologia</h1>
       <div className="container">
         <img
-          src="https://api.new.buki.org.pl/news_image/u1/FC/u1FCMRkw1Sh8rfKkvui7AQdBKdEW2gh8j2uyfZRq.jpg"
+          src="https://img.wprost.pl/img/uklad-krwionosny/7f/31/344e4276a426bb36a2d1c57df856.jpeg"
           alt="Układ Krwionośny, limfatyczny, odpornościowy"
           class="image"
         />
